@@ -1,0 +1,17 @@
+.container {
+    background-image: url('../Asset/h1.jpg');
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+}
+
+.L1 {
+    color: aliceblue;
+}
+
+.transparent-table {
+    background-color: transparent;
+}
